@@ -1,0 +1,1 @@
+Change them every TCX file ID in the executable file with the start date of activity. This allows you to export all of a sudden Polar Flow files and import them to Strava without duplicates.
